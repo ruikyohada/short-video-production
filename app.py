@@ -1,4 +1,4 @@
 import streamlit as st
 
 st.title("ショート動画製作")
-st.write("やったね！ちゃんと起動しました。")
+st.write("どうかな？変更は反映されてる？")
